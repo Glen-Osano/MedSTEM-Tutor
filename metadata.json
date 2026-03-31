@@ -1,0 +1,5 @@
+{
+  "name": "MedSTEM Tutor",
+  "description": "An AI tutor that explains complex STEM concepts to medical professionals using clinical analogies and professional terminology.",
+  "requestFramePermissions": []
+}
